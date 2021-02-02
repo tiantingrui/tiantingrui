@@ -5,5 +5,4 @@
 - :orange_book: Focusing on front-end
 - :hammer: Creator of applications and frameworks
 - :meat_on_bone: Meat lover
-_ :private website: https://tiantingrui.com
-_ :……
+- :private website: https://tiantingrui.com
